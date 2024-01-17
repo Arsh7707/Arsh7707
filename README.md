@@ -1,6 +1,6 @@
 ![logo](https://github.com/Arsh7707/Arsh7707/blob/main/github_banner.png)
-<h1 align="center">Hi 👋, I'm Arshjot</h1>
-<h3 align="center">3rd year Uvic Computer Science</h3>
+
+<p></p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif")
 
 
