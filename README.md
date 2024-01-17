@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshjot</h1>
-<h3 align="center">A passionate software developer from CanadaIndia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/callofduty-call-of-duty-modern-warfare-2-ii-eFxpuiAuG4nrPNCPEM">
+<h3 align="center">3rd year Uvic Computer Science</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE)")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh7707&label=Profile%20views&color=0e75b6&style=flat" alt="arsh7707" /> </p>
 
