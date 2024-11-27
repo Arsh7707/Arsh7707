@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh7707&label=Profile%20views&color=0e75b6&style=flat" alt="arsh7707" /> </p>
 
-- 🔭 I’m currently working on **My personal portfolio**
+- 🔭 I’m currently working on **dApp Netbanking**
 
-- 🌱 I’m currently learning **C++, JUnit, MySQL**
+- 🌱 I’m currently learning **dApp, MongoDB, Express JS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
