@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsh7707&label=Profile%20views&color=0e75b6&style=flat" alt="arsh7707" /> </p>
 
-- 🔭 I’m currently working on **dApp Netbanking**
+- 🔭 I’m currently working on **Financial Tracker Full Stack Application**
 
-- 🌱 I’m currently learning **dApp, MongoDB, Express JS**
+- 🌱 I’m currently learning **Docker and AWS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **arshjot487@gmail.com**
 
-- ⚡ Fun fact **I think I look intimidating(I'm not)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
